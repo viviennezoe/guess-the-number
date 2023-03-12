@@ -1,2 +1,2 @@
 # guess-the-number
-Anroid app to guess a number
+Android app to guess a number
